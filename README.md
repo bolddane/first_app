@@ -10,6 +10,8 @@ Change #3: modify README.md again, with this comment, made on bold/feature_1_del
 
 Change #4: test embedding an *asterisk* in a code block:
 
-  <code>dist/* -diff</code>
+```
+dist/* -diff
+```
 
- Will this show up correctly
+ Will this show up correctly?
